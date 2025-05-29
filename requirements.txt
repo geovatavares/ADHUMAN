@@ -1,0 +1,18 @@
+Python 3
+
+NumPy (numpy):
+Para criação e manipulação de arrays numéricos.
+Simulação de dados e geração de valores aleatórios.
+
+Matplotlib (matplotlib.pyplot):
+Para geração de gráficos de previsão de pH.
+
+scikit-learn (sklearn):
+Para criar e treinar uma Rede Neural Artificial com MLPRegressor.
+Para normalização de dados com StandardScaler.
+
+statsmodels (ARIMA):
+Para modelar e prever séries temporais com o modelo ARIMA.
+
+Perfis de Aceitação Humana:
+Funções human_accepts_conservative e human_accepts_flexible simulam decisões humanas baseadas em faixa de tolerância.
